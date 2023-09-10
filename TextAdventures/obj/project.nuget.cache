@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WqT9nwxazwtay32k90yQ2pL5ZZaczxGhAdwVEU9qho4D76mCGNeiQrsnIGgypgi4oneK7PuEUkH8Z4k3ZfwzUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s\\Downloads\\TextAdventures\\TextAdventures\\TextAdventures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
